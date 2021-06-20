@@ -1,0 +1,1971 @@
+{
+	"activePlayer": {
+		"abilities": {
+			"E": {
+				"abilityLevel": 3,
+				"displayName": "Spirit Fire",
+				"id": "NasusE",
+				"rawDescription": "GeneratedTip_Spell_NasusE_Description",
+				"rawDisplayName": "GeneratedTip_Spell_NasusE_DisplayName"
+			},
+			"Passive": {
+				"displayName": "Soul Eater",
+				"id": "NasusPassive",
+				"rawDescription": "GeneratedTip_Passive_NasusPassive_Description",
+				"rawDisplayName": "GeneratedTip_Passive_NasusPassive_DisplayName"
+			},
+			"Q": {
+				"abilityLevel": 3,
+				"displayName": "Siphoning Strike",
+				"id": "NasusQ",
+				"rawDescription": "GeneratedTip_Spell_NasusQ_Description",
+				"rawDisplayName": "GeneratedTip_Spell_NasusQ_DisplayName"
+			},
+			"R": {
+				"abilityLevel": 2,
+				"displayName": "Fury of the Sands",
+				"id": "NasusR",
+				"rawDescription": "GeneratedTip_Spell_NasusR_Description",
+				"rawDisplayName": "GeneratedTip_Spell_NasusR_DisplayName"
+			},
+			"W": {
+				"abilityLevel": 3,
+				"displayName": "Wither",
+				"id": "NasusW",
+				"rawDescription": "GeneratedTip_Spell_NasusW_Description",
+				"rawDisplayName": "GeneratedTip_Spell_NasusW_DisplayName"
+			}
+		},
+		"championStats": {
+			"abilityHaste": 28.0,
+			"abilityPower": 129.0,
+			"armor": 99.4481201171875,
+			"armorPenetrationFlat": 0.0,
+			"armorPenetrationPercent": 1.0,
+			"attackDamage": 97.7125015258789,
+			"attackRange": 125.0,
+			"attackSpeed": 0.8328261375427246,
+			"bonusArmorPenetrationPercent": 1.0,
+			"bonusMagicPenetrationPercent": 1.0,
+			"critChance": 0.0,
+			"critDamage": 175.0,
+			"currentHealth": 0.0,
+			"healShieldPower": 0.0,
+			"healthRegenRate": 3.379500150680542,
+			"lifeSteal": 0.1599999964237213,
+			"magicLethality": 0.0,
+			"magicPenetrationFlat": 0.0,
+			"magicPenetrationPercent": 1.0,
+			"magicResist": 91.31718444824219,
+			"maxHealth": 1915.5262451171876,
+			"moveSpeed": 395.0,
+			"omnivamp": 0.0,
+			"physicalLethality": 0.0,
+			"physicalVamp": 0.0,
+			"resourceMax": 1470.050048828125,
+			"resourceRegenRate": 4.4676713943481449,
+			"resourceType": "MANA",
+			"resourceValue": 1301.324462890625,
+			"spellVamp": 0.0,
+			"tenacity": 0.0
+		},
+		"currentGold": 714.7899169921875,
+		"fullRunes": {
+			"generalRunes": [
+				{
+					"displayName": "Grasp of the Undying",
+					"id": 8437,
+					"rawDescription": "perk_tooltip_GraspOfTheUndying",
+					"rawDisplayName": "perk_displayname_GraspOfTheUndying"
+				},
+				{
+					"displayName": "Font of Life",
+					"id": 8463,
+					"rawDescription": "perk_tooltip_FontOfLife",
+					"rawDisplayName": "perk_displayname_FontOfLife"
+				},
+				{
+					"displayName": "Conditioning",
+					"id": 8429,
+					"rawDescription": "perk_tooltip_Conditioning",
+					"rawDisplayName": "perk_displayname_Conditioning"
+				},
+				{
+					"displayName": "Overgrowth",
+					"id": 8451,
+					"rawDescription": "perk_tooltip_Overgrowth",
+					"rawDisplayName": "perk_displayname_Overgrowth"
+				},
+				{
+					"displayName": "Triumph",
+					"id": 9111,
+					"rawDescription": "perk_tooltip_9111",
+					"rawDisplayName": "perk_displayname_9111"
+				},
+				{
+					"displayName": "Legend: Tenacity",
+					"id": 9105,
+					"rawDescription": "perk_tooltip_9105",
+					"rawDisplayName": "perk_displayname_9105"
+				}
+			],
+			"keystone": {
+				"displayName": "Grasp of the Undying",
+				"id": 8437,
+				"rawDescription": "perk_tooltip_GraspOfTheUndying",
+				"rawDisplayName": "perk_displayname_GraspOfTheUndying"
+			},
+			"primaryRuneTree": {
+				"displayName": "Resolve",
+				"id": 8400,
+				"rawDescription": "perkstyle_tooltip_7204",
+				"rawDisplayName": "perkstyle_displayname_7204"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"statRunes": [
+				{
+					"id": 5007,
+					"rawDescription": "perk_tooltip_StatModCooldownReductionScaling"
+				},
+				{
+					"id": 5008,
+					"rawDescription": "perk_tooltip_StatModAdaptive"
+				},
+				{
+					"id": 5002,
+					"rawDescription": "perk_tooltip_StatModArmor"
+				}
+			]
+		},
+		"level": 11,
+		"summonerName": "Eng3nh0c4s"
+	},
+	"allPlayers": [
+		{
+			"championName": "Bard",
+			"isBot": false,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Luden's Tempest",
+					"itemID": 6655,
+					"price": 1250,
+					"rawDescription": "GeneratedTip_Item_6655_Description",
+					"rawDisplayName": "Item_6655_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Sorcerer's Shoes",
+					"itemID": 3020,
+					"price": 800,
+					"rawDescription": "GeneratedTip_Item_3020_Description",
+					"rawDisplayName": "Item_3020_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Aether Wisp",
+					"itemID": 3113,
+					"price": 415,
+					"rawDescription": "GeneratedTip_Item_3113_Description",
+					"rawDisplayName": "Item_3113_Name",
+					"slot": 2
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Sheen",
+					"itemID": 3057,
+					"price": 700,
+					"rawDescription": "GeneratedTip_Item_3057_Description",
+					"rawDisplayName": "Item_3057_Name",
+					"slot": 3
+				}
+			],
+			"level": 12,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Bard",
+			"rawSkinName": "game_character_skin_displayname_Bard_5",
+			"respawnTimer": 0.0,
+			"runes": {
+				"keystone": {
+					"displayName": "Dark Harvest",
+					"id": 8128,
+					"rawDescription": "perk_tooltip_DarkHarvest",
+					"rawDisplayName": "perk_displayname_DarkHarvest"
+				},
+				"primaryRuneTree": {
+					"displayName": "Domination",
+					"id": 8100,
+					"rawDescription": "perkstyle_tooltip_7200",
+					"rawDisplayName": "perkstyle_displayname_7200"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Sorcery",
+					"id": 8200,
+					"rawDescription": "perkstyle_tooltip_7202",
+					"rawDisplayName": "perkstyle_displayname_7202"
+				}
+			},
+			"scores": {
+				"assists": 11,
+				"creepScore": 10,
+				"deaths": 3,
+				"kills": 2,
+				"wardScore": 0.0
+			},
+			"skinID": 5,
+			"skinName": "Snow Day Bard",
+			"summonerName": "DianinhaBolacha",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Barrier",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerBarrier_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerBarrier_DisplayName"
+				}
+			},
+			"team": "ORDER"
+		},
+		{
+			"championName": "Yone",
+			"isBot": false,
+			"isDead": true,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Berserker's Greaves",
+					"itemID": 3006,
+					"price": 500,
+					"rawDescription": "GeneratedTip_Item_3006_Description",
+					"rawDisplayName": "Item_3006_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Immortal Shieldbow",
+					"itemID": 6673,
+					"price": 600,
+					"rawDescription": "GeneratedTip_Item_6673_Description",
+					"rawDisplayName": "Item_6673_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Infinity Edge",
+					"itemID": 3031,
+					"price": 625,
+					"rawDescription": "GeneratedTip_Item_3031_Description",
+					"rawDisplayName": "Item_3031_Name",
+					"slot": 2
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Zeal",
+					"itemID": 3086,
+					"price": 150,
+					"rawDescription": "GeneratedTip_Item_3086_Description",
+					"rawDisplayName": "Item_3086_Name",
+					"slot": 3
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 1,
+					"displayName": "Poro-Snax",
+					"itemID": 2052,
+					"price": 0,
+					"rawDescription": "game_item_description_2052",
+					"rawDisplayName": "game_item_displayname_2052",
+					"slot": 6
+				}
+			],
+			"level": 12,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Yone",
+			"rawSkinName": "game_character_skin_displayname_Yone_1",
+			"respawnTimer": 3.62640380859375,
+			"runes": {
+				"keystone": {
+					"displayName": "Fleet Footwork",
+					"id": 8021,
+					"rawDescription": "perk_tooltip_FleetFootwork",
+					"rawDisplayName": "perk_displayname_FleetFootwork"
+				},
+				"primaryRuneTree": {
+					"displayName": "Precision",
+					"id": 8000,
+					"rawDescription": "perkstyle_tooltip_7201",
+					"rawDisplayName": "perkstyle_displayname_7201"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Resolve",
+					"id": 8400,
+					"rawDescription": "perkstyle_tooltip_7204",
+					"rawDisplayName": "perkstyle_displayname_7204"
+				}
+			},
+			"scores": {
+				"assists": 10,
+				"creepScore": 40,
+				"deaths": 7,
+				"kills": 9,
+				"wardScore": 0.0
+			},
+			"skinID": 1,
+			"skinName": "Spirit Blossom Yone",
+			"summonerName": "Hï Im Esu",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Mark",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				}
+			},
+			"team": "ORDER"
+		},
+		{
+			"championName": "Nasus",
+			"isBot": false,
+			"isDead": true,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Liandry's Anguish",
+					"itemID": 6653,
+					"price": 1200,
+					"rawDescription": "GeneratedTip_Item_6653_Description",
+					"rawDisplayName": "Item_6653_Name",
+					"slot": 0
+				},
+				{
+					"canUse": true,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Refillable Potion",
+					"itemID": 2031,
+					"price": 150,
+					"rawDescription": "GeneratedTip_Item_2031_Description",
+					"rawDisplayName": "Item_2031_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Mercury's Treads",
+					"itemID": 3111,
+					"price": 350,
+					"rawDescription": "GeneratedTip_Item_3111_Description",
+					"rawDisplayName": "Item_3111_Name",
+					"slot": 2
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Cloth Armor",
+					"itemID": 1029,
+					"price": 300,
+					"rawDescription": "GeneratedTip_Item_1029_Description",
+					"rawDisplayName": "Item_1029_Name",
+					"slot": 3
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Blasting Wand",
+					"itemID": 1026,
+					"price": 850,
+					"rawDescription": "GeneratedTip_Item_1026_Description",
+					"rawDisplayName": "Item_1026_Name",
+					"slot": 4
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Giant's Belt",
+					"itemID": 1011,
+					"price": 500,
+					"rawDescription": "GeneratedTip_Item_1011_Description",
+					"rawDisplayName": "Item_1011_Name",
+					"slot": 5
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 1,
+					"displayName": "Poro-Snax",
+					"itemID": 2052,
+					"price": 0,
+					"rawDescription": "game_item_description_2052",
+					"rawDisplayName": "game_item_displayname_2052",
+					"slot": 6
+				}
+			],
+			"level": 11,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Nasus",
+			"rawSkinName": "game_character_skin_displayname_Nasus_10",
+			"respawnTimer": 12.91478443145752,
+			"runes": {
+				"keystone": {
+					"displayName": "Grasp of the Undying",
+					"id": 8437,
+					"rawDescription": "perk_tooltip_GraspOfTheUndying",
+					"rawDisplayName": "perk_displayname_GraspOfTheUndying"
+				},
+				"primaryRuneTree": {
+					"displayName": "Resolve",
+					"id": 8400,
+					"rawDescription": "perkstyle_tooltip_7204",
+					"rawDisplayName": "perkstyle_displayname_7204"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Precision",
+					"id": 8000,
+					"rawDescription": "perkstyle_tooltip_7201",
+					"rawDisplayName": "perkstyle_displayname_7201"
+				}
+			},
+			"scores": {
+				"assists": 10,
+				"creepScore": 20,
+				"deaths": 8,
+				"kills": 3,
+				"wardScore": 0.0
+			},
+			"skinID": 10,
+			"skinName": "Worldbreaker Nasus",
+			"summonerName": "Eng3nh0c4s",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Ignite",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				}
+			},
+			"team": "ORDER"
+		},
+		{
+			"championName": "Neeko",
+			"isBot": false,
+			"isDead": true,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Sorcerer's Shoes",
+					"itemID": 3020,
+					"price": 800,
+					"rawDescription": "GeneratedTip_Item_3020_Description",
+					"rawDisplayName": "Item_3020_Name",
+					"slot": 0
+				},
+				{
+					"canUse": true,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Zhonya's Hourglass",
+					"itemID": 3157,
+					"price": 50,
+					"rawDescription": "GeneratedTip_Item_3157_Description",
+					"rawDisplayName": "Item_3157_Name",
+					"slot": 1
+				},
+				{
+					"canUse": true,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Refillable Potion",
+					"itemID": 2031,
+					"price": 150,
+					"rawDescription": "GeneratedTip_Item_2031_Description",
+					"rawDisplayName": "Item_2031_Name",
+					"slot": 2
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Ruby Crystal",
+					"itemID": 1028,
+					"price": 400,
+					"rawDescription": "GeneratedTip_Item_1028_Description",
+					"rawDisplayName": "Item_1028_Name",
+					"slot": 3
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Luden's Tempest",
+					"itemID": 6655,
+					"price": 1250,
+					"rawDescription": "GeneratedTip_Item_6655_Description",
+					"rawDisplayName": "Item_6655_Name",
+					"slot": 4
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 1,
+					"displayName": "Poro-Snax",
+					"itemID": 2052,
+					"price": 0,
+					"rawDescription": "game_item_description_2052",
+					"rawDisplayName": "game_item_displayname_2052",
+					"slot": 6
+				}
+			],
+			"level": 13,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Neeko",
+			"rawSkinName": "game_character_skin_displayname_Neeko_1",
+			"respawnTimer": 8.224096298217774,
+			"runes": {
+				"keystone": {
+					"displayName": "Dark Harvest",
+					"id": 8128,
+					"rawDescription": "perk_tooltip_DarkHarvest",
+					"rawDisplayName": "perk_displayname_DarkHarvest"
+				},
+				"primaryRuneTree": {
+					"displayName": "Domination",
+					"id": 8100,
+					"rawDescription": "perkstyle_tooltip_7200",
+					"rawDisplayName": "perkstyle_displayname_7200"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Precision",
+					"id": 8000,
+					"rawDescription": "perkstyle_tooltip_7201",
+					"rawDisplayName": "perkstyle_displayname_7201"
+				}
+			},
+			"scores": {
+				"assists": 7,
+				"creepScore": 20,
+				"deaths": 5,
+				"kills": 7,
+				"wardScore": 0.0
+			},
+			"skinID": 1,
+			"skinName": "Winter Wonder Neeko",
+			"summonerName": "Gr8 Monst3r",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Mark",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				}
+			},
+			"team": "ORDER"
+		},
+		{
+			"championName": "Vel'Koz",
+			"isBot": false,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Liandry's Anguish",
+					"itemID": 6653,
+					"price": 1200,
+					"rawDescription": "GeneratedTip_Item_6653_Description",
+					"rawDisplayName": "Item_6653_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Giant's Belt",
+					"itemID": 1011,
+					"price": 500,
+					"rawDescription": "GeneratedTip_Item_1011_Description",
+					"rawDisplayName": "Item_1011_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Amplifying Tome",
+					"itemID": 1052,
+					"price": 435,
+					"rawDescription": "GeneratedTip_Item_1052_Description",
+					"rawDisplayName": "Item_1052_Name",
+					"slot": 3
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Ionian Boots of Lucidity",
+					"itemID": 3158,
+					"price": 650,
+					"rawDescription": "GeneratedTip_Item_3158_Description",
+					"rawDisplayName": "Item_3158_Name",
+					"slot": 4
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 1,
+					"displayName": "Poro-Snax",
+					"itemID": 2052,
+					"price": 0,
+					"rawDescription": "game_item_description_2052",
+					"rawDisplayName": "game_item_displayname_2052",
+					"slot": 6
+				}
+			],
+			"level": 12,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Velkoz",
+			"respawnTimer": 0.0,
+			"runes": {
+				"keystone": {
+					"displayName": "Arcane Comet",
+					"id": 8229,
+					"rawDescription": "perk_tooltip_ArcaneComet",
+					"rawDisplayName": "perk_displayname_ArcaneComet"
+				},
+				"primaryRuneTree": {
+					"displayName": "Sorcery",
+					"id": 8200,
+					"rawDescription": "perkstyle_tooltip_7202",
+					"rawDisplayName": "perkstyle_displayname_7202"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Domination",
+					"id": 8100,
+					"rawDescription": "perkstyle_tooltip_7200",
+					"rawDisplayName": "perkstyle_displayname_7200"
+				}
+			},
+			"scores": {
+				"assists": 11,
+				"creepScore": 0,
+				"deaths": 7,
+				"kills": 2,
+				"wardScore": 0.0
+			},
+			"skinID": 0,
+			"summonerName": "RastaMan208",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Exhaust",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerExhaust_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerExhaust_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				}
+			},
+			"team": "ORDER"
+		},
+		{
+			"championName": "Kog'Maw",
+			"isBot": false,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Tear of the Goddess",
+					"itemID": 3070,
+					"price": 400,
+					"rawDescription": "GeneratedTip_Item_3070_Description",
+					"rawDisplayName": "Item_3070_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Horizon Focus",
+					"itemID": 4628,
+					"price": 700,
+					"rawDescription": "GeneratedTip_Item_4628_Description",
+					"rawDisplayName": "Item_4628_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Liandry's Anguish",
+					"itemID": 6653,
+					"price": 1200,
+					"rawDescription": "GeneratedTip_Item_6653_Description",
+					"rawDisplayName": "Item_6653_Name",
+					"slot": 2
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Giant's Belt",
+					"itemID": 1011,
+					"price": 500,
+					"rawDescription": "GeneratedTip_Item_1011_Description",
+					"rawDisplayName": "Item_1011_Name",
+					"slot": 3
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Boots",
+					"itemID": 1001,
+					"price": 300,
+					"rawDescription": "GeneratedTip_Item_1001_Description",
+					"rawDisplayName": "Item_1001_Name",
+					"slot": 4
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 2,
+					"displayName": "Poro-Snax",
+					"itemID": 2052,
+					"price": 0,
+					"rawDescription": "game_item_description_2052",
+					"rawDisplayName": "game_item_displayname_2052",
+					"slot": 6
+				}
+			],
+			"level": 13,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_KogMaw",
+			"respawnTimer": 0.0,
+			"runes": {
+				"keystone": {
+					"displayName": "Dark Harvest",
+					"id": 8128,
+					"rawDescription": "perk_tooltip_DarkHarvest",
+					"rawDisplayName": "perk_displayname_DarkHarvest"
+				},
+				"primaryRuneTree": {
+					"displayName": "Domination",
+					"id": 8100,
+					"rawDescription": "perkstyle_tooltip_7200",
+					"rawDisplayName": "perkstyle_displayname_7200"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Precision",
+					"id": 8000,
+					"rawDescription": "perkstyle_tooltip_7201",
+					"rawDisplayName": "perkstyle_displayname_7201"
+				}
+			},
+			"scores": {
+				"assists": 15,
+				"creepScore": 20,
+				"deaths": 3,
+				"kills": 6,
+				"wardScore": 0.0
+			},
+			"skinID": 0,
+			"summonerName": "TikiTikiRumba",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Clarity",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerMana_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerMana_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				}
+			},
+			"team": "CHAOS"
+		},
+		{
+			"championName": "Ekko",
+			"isBot": false,
+			"isDead": true,
+			"items": [
+				{
+					"canUse": true,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Refillable Potion",
+					"itemID": 2031,
+					"price": 150,
+					"rawDescription": "GeneratedTip_Item_2031_Description",
+					"rawDisplayName": "Item_2031_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Night Harvester",
+					"itemID": 4636,
+					"price": 900,
+					"rawDescription": "GeneratedTip_Item_4636_Description",
+					"rawDisplayName": "Item_4636_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Guardian's Orb",
+					"itemID": 3112,
+					"price": 950,
+					"rawDescription": "GeneratedTip_Item_3112_Description",
+					"rawDisplayName": "game_item_displayname_3112",
+					"slot": 2
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Sheen",
+					"itemID": 3057,
+					"price": 700,
+					"rawDescription": "GeneratedTip_Item_3057_Description",
+					"rawDisplayName": "Item_3057_Name",
+					"slot": 3
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Aether Wisp",
+					"itemID": 3113,
+					"price": 415,
+					"rawDescription": "GeneratedTip_Item_3113_Description",
+					"rawDisplayName": "Item_3113_Name",
+					"slot": 4
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Blasting Wand",
+					"itemID": 1026,
+					"price": 850,
+					"rawDescription": "GeneratedTip_Item_1026_Description",
+					"rawDisplayName": "Item_1026_Name",
+					"slot": 5
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 2,
+					"displayName": "Poro-Snax",
+					"itemID": 2052,
+					"price": 0,
+					"rawDescription": "game_item_description_2052",
+					"rawDisplayName": "game_item_displayname_2052",
+					"slot": 6
+				}
+			],
+			"level": 13,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Ekko",
+			"respawnTimer": 9.143388748168946,
+			"runes": {
+				"keystone": {
+					"displayName": "Dark Harvest",
+					"id": 8128,
+					"rawDescription": "perk_tooltip_DarkHarvest",
+					"rawDisplayName": "perk_displayname_DarkHarvest"
+				},
+				"primaryRuneTree": {
+					"displayName": "Domination",
+					"id": 8100,
+					"rawDescription": "perkstyle_tooltip_7200",
+					"rawDisplayName": "perkstyle_displayname_7200"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Sorcery",
+					"id": 8200,
+					"rawDescription": "perkstyle_tooltip_7202",
+					"rawDisplayName": "perkstyle_displayname_7202"
+				}
+			},
+			"scores": {
+				"assists": 12,
+				"creepScore": 10,
+				"deaths": 9,
+				"kills": 10,
+				"wardScore": 0.0
+			},
+			"skinID": 0,
+			"summonerName": "Floor Lamp",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Mark",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+				}
+			},
+			"team": "CHAOS"
+		},
+		{
+			"championName": "Galio",
+			"isBot": false,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Sunfire Aegis",
+					"itemID": 3068,
+					"price": 600,
+					"rawDescription": "GeneratedTip_Item_3068_Description",
+					"rawDisplayName": "Item_3068_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Boots",
+					"itemID": 1001,
+					"price": 300,
+					"rawDescription": "GeneratedTip_Item_1001_Description",
+					"rawDisplayName": "Item_1001_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Negatron Cloak",
+					"itemID": 1057,
+					"price": 450,
+					"rawDescription": "GeneratedTip_Item_1057_Description",
+					"rawDisplayName": "Item_1057_Name",
+					"slot": 2
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Giant's Belt",
+					"itemID": 1011,
+					"price": 500,
+					"rawDescription": "GeneratedTip_Item_1011_Description",
+					"rawDisplayName": "Item_1011_Name",
+					"slot": 3
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 2,
+					"displayName": "Poro-Snax",
+					"itemID": 2052,
+					"price": 0,
+					"rawDescription": "game_item_description_2052",
+					"rawDisplayName": "game_item_displayname_2052",
+					"slot": 6
+				}
+			],
+			"level": 12,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Galio",
+			"respawnTimer": 0.0,
+			"runes": {
+				"keystone": {
+					"displayName": "Aftershock",
+					"id": 8439,
+					"rawDescription": "perk_tooltip_VeteranAftershock",
+					"rawDisplayName": "perk_displayname_VeteranAftershock"
+				},
+				"primaryRuneTree": {
+					"displayName": "Resolve",
+					"id": 8400,
+					"rawDescription": "perkstyle_tooltip_7204",
+					"rawDisplayName": "perkstyle_displayname_7204"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Sorcery",
+					"id": 8200,
+					"rawDescription": "perkstyle_tooltip_7202",
+					"rawDisplayName": "perkstyle_displayname_7202"
+				}
+			},
+			"scores": {
+				"assists": 11,
+				"creepScore": 10,
+				"deaths": 5,
+				"kills": 1,
+				"wardScore": 0.0
+			},
+			"skinID": 0,
+			"summonerName": "ArkanSky",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Mark",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+				}
+			},
+			"team": "CHAOS"
+		},
+		{
+			"championName": "Jhin",
+			"isBot": false,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": true,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Galeforce",
+					"itemID": 6671,
+					"price": 625,
+					"rawDescription": "GeneratedTip_Item_6671_Description",
+					"rawDisplayName": "Item_6671_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Boots of Swiftness",
+					"itemID": 3009,
+					"price": 600,
+					"rawDescription": "GeneratedTip_Item_3009_Description",
+					"rawDisplayName": "Item_3009_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Serrated Dirk",
+					"itemID": 3134,
+					"price": 400,
+					"rawDescription": "GeneratedTip_Item_3134_Description",
+					"rawDisplayName": "Item_3134_Name",
+					"slot": 2
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 2,
+					"displayName": "Health Potion",
+					"itemID": 2003,
+					"price": 50,
+					"rawDescription": "GeneratedTip_Item_2003_Description",
+					"rawDisplayName": "Item_2003_Name",
+					"slot": 3
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 2,
+					"displayName": "Poro-Snax",
+					"itemID": 2052,
+					"price": 0,
+					"rawDescription": "game_item_description_2052",
+					"rawDisplayName": "game_item_displayname_2052",
+					"slot": 6
+				}
+			],
+			"level": 13,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Jhin",
+			"rawSkinName": "game_character_skin_displayname_Jhin_4",
+			"respawnTimer": 0.0,
+			"runes": {
+				"keystone": {
+					"displayName": "Arcane Comet",
+					"id": 8229,
+					"rawDescription": "perk_tooltip_ArcaneComet",
+					"rawDisplayName": "perk_displayname_ArcaneComet"
+				},
+				"primaryRuneTree": {
+					"displayName": "Sorcery",
+					"id": 8200,
+					"rawDescription": "perkstyle_tooltip_7202",
+					"rawDisplayName": "perkstyle_displayname_7202"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Precision",
+					"id": 8000,
+					"rawDescription": "perkstyle_tooltip_7201",
+					"rawDisplayName": "perkstyle_displayname_7201"
+				}
+			},
+			"scores": {
+				"assists": 15,
+				"creepScore": 40,
+				"deaths": 2,
+				"kills": 3,
+				"wardScore": 0.0
+			},
+			"skinID": 4,
+			"skinName": "PROJECT: Jhin",
+			"summonerName": "XqTR",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Clarity",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerMana_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerMana_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				}
+			},
+			"team": "CHAOS"
+		},
+		{
+			"championName": "Zed",
+			"isBot": false,
+			"isDead": false,
+			"items": [
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Duskblade of Draktharr",
+					"itemID": 6691,
+					"price": 1000,
+					"rawDescription": "GeneratedTip_Item_6691_Description",
+					"rawDisplayName": "Item_6691_Name",
+					"slot": 0
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Boots",
+					"itemID": 1001,
+					"price": 300,
+					"rawDescription": "GeneratedTip_Item_1001_Description",
+					"rawDisplayName": "Item_1001_Name",
+					"slot": 1
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Sanguine Blade",
+					"itemID": 3181,
+					"price": 1000,
+					"rawDescription": "GeneratedTip_Item_3181_Description",
+					"rawDisplayName": "Item_3181_Name",
+					"slot": 2
+				},
+				{
+					"canUse": false,
+					"consumable": false,
+					"count": 1,
+					"displayName": "Serrated Dirk",
+					"itemID": 3134,
+					"price": 400,
+					"rawDescription": "GeneratedTip_Item_3134_Description",
+					"rawDisplayName": "Item_3134_Name",
+					"slot": 3
+				},
+				{
+					"canUse": true,
+					"consumable": true,
+					"count": 1,
+					"displayName": "Poro-Snax",
+					"itemID": 2052,
+					"price": 0,
+					"rawDescription": "game_item_description_2052",
+					"rawDisplayName": "game_item_displayname_2052",
+					"slot": 6
+				}
+			],
+			"level": 12,
+			"position": "NONE",
+			"rawChampionName": "game_character_displayname_Zed",
+			"rawSkinName": "game_character_skin_displayname_Zed_11",
+			"respawnTimer": 0.0,
+			"runes": {
+				"keystone": {
+					"displayName": "Electrocute",
+					"id": 8112,
+					"rawDescription": "perk_tooltip_Electrocute",
+					"rawDisplayName": "perk_displayname_Electrocute"
+				},
+				"primaryRuneTree": {
+					"displayName": "Domination",
+					"id": 8100,
+					"rawDescription": "perkstyle_tooltip_7200",
+					"rawDisplayName": "perkstyle_displayname_7200"
+				},
+				"secondaryRuneTree": {
+					"displayName": "Precision",
+					"id": 8000,
+					"rawDescription": "perkstyle_tooltip_7201",
+					"rawDisplayName": "perkstyle_displayname_7201"
+				}
+			},
+			"scores": {
+				"assists": 4,
+				"creepScore": 10,
+				"deaths": 4,
+				"kills": 10,
+				"wardScore": 0.0
+			},
+			"skinID": 11,
+			"skinName": "Death Sworn Zed",
+			"summonerName": "lunadelwa",
+			"summonerSpells": {
+				"summonerSpellOne": {
+					"displayName": "Flash",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+				},
+				"summonerSpellTwo": {
+					"displayName": "Mark",
+					"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+					"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+				}
+			},
+			"team": "CHAOS"
+		}
+	],
+	"events": {
+		"Events": [
+			{
+				"EventID": 0,
+				"EventName": "GameStart",
+				"EventTime": 0.026892200112342836
+			},
+			{
+				"EventID": 1,
+				"EventName": "MinionsSpawning",
+				"EventTime": 45.04133224487305
+			},
+			{
+				"Assisters": [
+					"ArkanSky",
+					"XqTR"
+				],
+				"EventID": 2,
+				"EventName": "ChampionKill",
+				"EventTime": 101.67979431152344,
+				"KillerName": "TikiTikiRumba",
+				"VictimName": "Eng3nh0c4s"
+			},
+			{
+				"EventID": 3,
+				"EventName": "FirstBlood",
+				"EventTime": 101.67979431152344,
+				"Recipient": "TikiTikiRumba"
+			},
+			{
+				"Assisters": [
+					"RastaMan208"
+				],
+				"EventID": 4,
+				"EventName": "ChampionKill",
+				"EventTime": 102.8875961303711,
+				"KillerName": "Hï Im Esu",
+				"VictimName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba"
+				],
+				"EventID": 5,
+				"EventName": "ChampionKill",
+				"EventTime": 106.4749755859375,
+				"KillerName": "lunadelwa",
+				"VictimName": "RastaMan208"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba",
+					"Floor Lamp",
+					"XqTR"
+				],
+				"EventID": 6,
+				"EventName": "ChampionKill",
+				"EventTime": 106.6069107055664,
+				"KillerName": "lunadelwa",
+				"VictimName": "Hï Im Esu"
+			},
+			{
+				"EventID": 7,
+				"EventName": "Multikill",
+				"EventTime": 106.6069107055664,
+				"KillStreak": 2,
+				"KillerName": "lunadelwa"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"Hï Im Esu"
+				],
+				"EventID": 8,
+				"EventName": "ChampionKill",
+				"EventTime": 114.41769409179688,
+				"KillerName": "Gr8 Monst3r",
+				"VictimName": "lunadelwa"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"Hï Im Esu",
+					"RastaMan208"
+				],
+				"EventID": 9,
+				"EventName": "ChampionKill",
+				"EventTime": 157.25132751464845,
+				"KillerName": "Eng3nh0c4s",
+				"VictimName": "ArkanSky"
+			},
+			{
+				"Assisters": [
+					"Eng3nh0c4s"
+				],
+				"EventID": 10,
+				"EventName": "ChampionKill",
+				"EventTime": 171.0691375732422,
+				"KillerName": "Hï Im Esu",
+				"VictimName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"Floor Lamp",
+					"ArkanSky",
+					"XqTR"
+				],
+				"EventID": 11,
+				"EventName": "ChampionKill",
+				"EventTime": 173.502197265625,
+				"KillerName": "lunadelwa",
+				"VictimName": "Eng3nh0c4s"
+			},
+			{
+				"Assisters": [
+					"Floor Lamp",
+					"XqTR"
+				],
+				"EventID": 12,
+				"EventName": "ChampionKill",
+				"EventTime": 175.07177734375,
+				"KillerName": "lunadelwa",
+				"VictimName": "Gr8 Monst3r"
+			},
+			{
+				"EventID": 13,
+				"EventName": "Multikill",
+				"EventTime": 175.07177734375,
+				"KillStreak": 2,
+				"KillerName": "lunadelwa"
+			},
+			{
+				"Assisters": [
+					"RastaMan208"
+				],
+				"EventID": 14,
+				"EventName": "ChampionKill",
+				"EventTime": 206.14309692382813,
+				"KillerName": "Hï Im Esu",
+				"VictimName": "XqTR"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba",
+					"ArkanSky"
+				],
+				"EventID": 15,
+				"EventName": "ChampionKill",
+				"EventTime": 208.3218231201172,
+				"KillerName": "Floor Lamp",
+				"VictimName": "Hï Im Esu"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"Eng3nh0c4s",
+					"RastaMan208"
+				],
+				"EventID": 16,
+				"EventName": "ChampionKill",
+				"EventTime": 216.40492248535157,
+				"KillerName": "Gr8 Monst3r",
+				"VictimName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"RastaMan208"
+				],
+				"EventID": 17,
+				"EventName": "ChampionKill",
+				"EventTime": 250.75958251953126,
+				"KillerName": "Hï Im Esu",
+				"VictimName": "TikiTikiRumba"
+			},
+			{
+				"Assisters": [
+					"ArkanSky"
+				],
+				"EventID": 18,
+				"EventName": "ChampionKill",
+				"EventTime": 254.98355102539063,
+				"KillerName": "TikiTikiRumba",
+				"VictimName": "Eng3nh0c4s"
+			},
+			{
+				"Assisters": [
+					"XqTR"
+				],
+				"EventID": 19,
+				"EventName": "ChampionKill",
+				"EventTime": 263.3828125,
+				"KillerName": "Floor Lamp",
+				"VictimName": "RastaMan208"
+			},
+			{
+				"Assisters": [
+					"ArkanSky",
+					"XqTR"
+				],
+				"EventID": 20,
+				"EventName": "ChampionKill",
+				"EventTime": 275.07598876953127,
+				"KillerName": "Floor Lamp",
+				"VictimName": "Gr8 Monst3r"
+			},
+			{
+				"Assisters": [
+					"Floor Lamp"
+				],
+				"EventID": 21,
+				"EventName": "ChampionKill",
+				"EventTime": 306.7757263183594,
+				"KillerName": "XqTR",
+				"VictimName": "RastaMan208"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba",
+					"XqTR"
+				],
+				"EventID": 22,
+				"EventName": "ChampionKill",
+				"EventTime": 308.08917236328127,
+				"KillerName": "Floor Lamp",
+				"VictimName": "Hï Im Esu"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"Hï Im Esu",
+					"Gr8 Monst3r"
+				],
+				"EventID": 23,
+				"EventName": "ChampionKill",
+				"EventTime": 321.9297180175781,
+				"KillerName": "Eng3nh0c4s",
+				"VictimName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba",
+					"XqTR",
+					"lunadelwa"
+				],
+				"EventID": 24,
+				"EventName": "ChampionKill",
+				"EventTime": 362.030517578125,
+				"KillerName": "Floor Lamp",
+				"VictimName": "RastaMan208"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba",
+					"XqTR"
+				],
+				"EventID": 25,
+				"EventName": "ChampionKill",
+				"EventTime": 368.963134765625,
+				"KillerName": "Floor Lamp",
+				"VictimName": "Eng3nh0c4s"
+			},
+			{
+				"EventID": 26,
+				"EventName": "Multikill",
+				"EventTime": 368.963134765625,
+				"KillStreak": 2,
+				"KillerName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba",
+					"Floor Lamp",
+					"ArkanSky",
+					"XqTR"
+				],
+				"EventID": 27,
+				"EventName": "ChampionKill",
+				"EventTime": 379.3777770996094,
+				"KillerName": "lunadelwa",
+				"VictimName": "Hï Im Esu"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"Hï Im Esu",
+					"Eng3nh0c4s"
+				],
+				"EventID": 28,
+				"EventName": "ChampionKill",
+				"EventTime": 386.4825439453125,
+				"KillerName": "Gr8 Monst3r",
+				"VictimName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"Eng3nh0c4s",
+					"Gr8 Monst3r"
+				],
+				"EventID": 29,
+				"EventName": "ChampionKill",
+				"EventTime": 411.5775146484375,
+				"KillerName": "RastaMan208",
+				"VictimName": "ArkanSky"
+			},
+			{
+				"Assisters": [
+					"Gr8 Monst3r"
+				],
+				"EventID": 30,
+				"EventName": "ChampionKill",
+				"EventTime": 430.6743469238281,
+				"KillerName": "Hï Im Esu",
+				"VictimName": "TikiTikiRumba"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba"
+				],
+				"EventID": 31,
+				"EventName": "ChampionKill",
+				"EventTime": 434.990478515625,
+				"KillerName": "Floor Lamp",
+				"VictimName": "Gr8 Monst3r"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"Hï Im Esu",
+					"Gr8 Monst3r",
+					"RastaMan208"
+				],
+				"EventID": 32,
+				"EventName": "ChampionKill",
+				"EventTime": 436.1302795410156,
+				"KillerName": "Eng3nh0c4s",
+				"VictimName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba"
+				],
+				"EventID": 33,
+				"EventName": "ChampionKill",
+				"EventTime": 474.7452697753906,
+				"KillerName": "XqTR",
+				"VictimName": "DianinhaBolacha"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"Eng3nh0c4s",
+					"RastaMan208"
+				],
+				"EventID": 34,
+				"EventName": "ChampionKill",
+				"EventTime": 477.3976135253906,
+				"KillerName": "Hï Im Esu",
+				"VictimName": "lunadelwa"
+			},
+			{
+				"Assisters": [],
+				"EventID": 35,
+				"EventName": "ChampionKill",
+				"EventTime": 479.47540283203127,
+				"KillerName": "Floor Lamp",
+				"VictimName": "Eng3nh0c4s"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"Hï Im Esu",
+					"Eng3nh0c4s",
+					"RastaMan208"
+				],
+				"EventID": 36,
+				"EventName": "ChampionKill",
+				"EventTime": 483.46209716796877,
+				"KillerName": "Gr8 Monst3r",
+				"VictimName": "ArkanSky"
+			},
+			{
+				"Assisters": [
+					"Hï Im Esu",
+					"Eng3nh0c4s",
+					"Gr8 Monst3r"
+				],
+				"EventID": 37,
+				"EventName": "ChampionKill",
+				"EventTime": 489.1042785644531,
+				"KillerName": "RastaMan208",
+				"VictimName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"Eng3nh0c4s",
+					"Gr8 Monst3r"
+				],
+				"EventID": 38,
+				"EventName": "ChampionKill",
+				"EventTime": 500.3846435546875,
+				"KillerName": "Hï Im Esu",
+				"VictimName": "XqTR"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba"
+				],
+				"EventID": 39,
+				"EventName": "ChampionKill",
+				"EventTime": 527.7059326171875,
+				"KillerName": "lunadelwa",
+				"VictimName": "RastaMan208"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba",
+					"Floor Lamp"
+				],
+				"EventID": 40,
+				"EventName": "ChampionKill",
+				"EventTime": 542.040771484375,
+				"KillerName": "XqTR",
+				"VictimName": "Eng3nh0c4s"
+			},
+			{
+				"Assisters": [
+					"Floor Lamp",
+					"ArkanSky"
+				],
+				"EventID": 41,
+				"EventName": "ChampionKill",
+				"EventTime": 551.4474487304688,
+				"KillerName": "lunadelwa",
+				"VictimName": "DianinhaBolacha"
+			},
+			{
+				"Assisters": [
+					"Hï Im Esu"
+				],
+				"EventID": 42,
+				"EventName": "ChampionKill",
+				"EventTime": 551.4474487304688,
+				"KillerName": "DianinhaBolacha",
+				"VictimName": "lunadelwa"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"Hï Im Esu",
+					"Eng3nh0c4s"
+				],
+				"EventID": 43,
+				"EventName": "ChampionKill",
+				"EventTime": 559.415771484375,
+				"KillerName": "Gr8 Monst3r",
+				"VictimName": "Floor Lamp"
+			},
+			{
+				"Assisters": [],
+				"EventID": 44,
+				"EventName": "ChampionKill",
+				"EventTime": 566.4119262695313,
+				"KillerName": "Gr8 Monst3r",
+				"VictimName": "ArkanSky"
+			},
+			{
+				"EventID": 45,
+				"EventName": "Multikill",
+				"EventTime": 566.4119262695313,
+				"KillStreak": 2,
+				"KillerName": "Gr8 Monst3r"
+			},
+			{
+				"Assisters": [
+					"Floor Lamp",
+					"XqTR"
+				],
+				"EventID": 46,
+				"EventName": "ChampionKill",
+				"EventTime": 573.1409912109375,
+				"KillerName": "TikiTikiRumba",
+				"VictimName": "Hï Im Esu"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba"
+				],
+				"EventID": 47,
+				"EventName": "ChampionKill",
+				"EventTime": 616.6683959960938,
+				"KillerName": "lunadelwa",
+				"VictimName": "Gr8 Monst3r"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba",
+					"ArkanSky"
+				],
+				"EventID": 48,
+				"EventName": "ChampionKill",
+				"EventTime": 617.3670043945313,
+				"KillerName": "Floor Lamp",
+				"VictimName": "Eng3nh0c4s"
+			},
+			{
+				"Assisters": [
+					"Gr8 Monst3r",
+					"RastaMan208"
+				],
+				"EventID": 49,
+				"EventName": "ChampionKill",
+				"EventTime": 623.0437622070313,
+				"KillerName": "Hï Im Esu",
+				"VictimName": "lunadelwa"
+			},
+			{
+				"Assisters": [
+					"Floor Lamp",
+					"ArkanSky",
+					"lunadelwa"
+				],
+				"EventID": 50,
+				"EventName": "ChampionKill",
+				"EventTime": 627.4127197265625,
+				"KillerName": "TikiTikiRumba",
+				"VictimName": "RastaMan208"
+			},
+			{
+				"Assisters": [
+					"RastaMan208"
+				],
+				"EventID": 51,
+				"EventName": "ChampionKill",
+				"EventTime": 629.7820434570313,
+				"KillerName": "Hï Im Esu",
+				"VictimName": "TikiTikiRumba"
+			},
+			{
+				"EventID": 52,
+				"EventName": "Multikill",
+				"EventTime": 629.7820434570313,
+				"KillStreak": 2,
+				"KillerName": "Hï Im Esu"
+			},
+			{
+				"Assisters": [
+					"ArkanSky",
+					"XqTR",
+					"lunadelwa"
+				],
+				"EventID": 53,
+				"EventName": "ChampionKill",
+				"EventTime": 633.8574829101563,
+				"KillerName": "TikiTikiRumba",
+				"VictimName": "DianinhaBolacha"
+			},
+			{
+				"EventID": 54,
+				"EventName": "Multikill",
+				"EventTime": 633.8574829101563,
+				"KillStreak": 2,
+				"KillerName": "TikiTikiRumba"
+			},
+			{
+				"Assisters": [
+					"ArkanSky",
+					"XqTR",
+					"lunadelwa"
+				],
+				"EventID": 55,
+				"EventName": "ChampionKill",
+				"EventTime": 637.07763671875,
+				"KillerName": "Floor Lamp",
+				"VictimName": "Hï Im Esu"
+			},
+			{
+				"Acer": "Floor Lamp",
+				"AcingTeam": "CHAOS",
+				"EventID": 56,
+				"EventName": "Ace",
+				"EventTime": 637.07763671875
+			},
+			{
+				"Assisters": [
+					"ArkanSky",
+					"XqTR"
+				],
+				"EventID": 57,
+				"EventName": "TurretKilled",
+				"EventTime": 654.2567749023438,
+				"KillerName": "Floor Lamp",
+				"TurretKilled": "Turret_T1_C_08_A"
+			},
+			{
+				"EventID": 58,
+				"EventName": "FirstBrick",
+				"EventTime": 654.2567749023438,
+				"KillerName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"Floor Lamp",
+					"XqTR"
+				],
+				"EventID": 59,
+				"EventName": "ChampionKill",
+				"EventTime": 674.4821166992188,
+				"KillerName": "ArkanSky",
+				"VictimName": "RastaMan208"
+			},
+			{
+				"Assisters": [
+					"DianinhaBolacha",
+					"RastaMan208"
+				],
+				"EventID": 60,
+				"EventName": "ChampionKill",
+				"EventTime": 680.4343872070313,
+				"KillerName": "Gr8 Monst3r",
+				"VictimName": "ArkanSky"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba",
+					"Floor Lamp",
+					"XqTR"
+				],
+				"EventID": 61,
+				"EventName": "ChampionKill",
+				"EventTime": 694.16259765625,
+				"KillerName": "lunadelwa",
+				"VictimName": "Hï Im Esu"
+			},
+			{
+				"Assisters": [
+					"Floor Lamp"
+				],
+				"EventID": 62,
+				"EventName": "ChampionKill",
+				"EventTime": 696.76025390625,
+				"KillerName": "TikiTikiRumba",
+				"VictimName": "Gr8 Monst3r"
+			},
+			{
+				"Assisters": [
+					"Hï Im Esu",
+					"Eng3nh0c4s"
+				],
+				"EventID": 63,
+				"EventName": "ChampionKill",
+				"EventTime": 699.6795654296875,
+				"KillerName": "DianinhaBolacha",
+				"VictimName": "Floor Lamp"
+			},
+			{
+				"Assisters": [
+					"TikiTikiRumba"
+				],
+				"EventID": 64,
+				"EventName": "ChampionKill",
+				"EventTime": 705.4509887695313,
+				"KillerName": "lunadelwa",
+				"VictimName": "Eng3nh0c4s"
+			}
+		]
+	},
+	"gameData": {
+		"gameMode": "ARAM",
+		"gameTime": 718.5361938476563,
+		"mapName": "Map12",
+		"mapNumber": 12,
+		"mapTerrain": "Default"
+	}
+}
